@@ -16,7 +16,7 @@ cp /home/pi/SYSTEM/YSFHosts.txt /home/pi/YSFClients/YSFGateway/
 			
 			clear
 			echo "${VERDE}**********************************"
-					echo "*  ACTUALIZANDO REFLECTORES YSF  *"
+					echo "*  ACTUALIZANDO REFLECTORES YSF VVVVV *"
 					echo "**********************************"
 			sleep 3
 						
