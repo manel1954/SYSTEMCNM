@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=EA3EIZ
+Exec=sh -c "cd /home/pi/SYSTEM/qt;./qt_editor_ircddb"
+Type=Application
+Terminal=false
+Comment[es_ES]=
+Name[es_ES]=Editar ircDDB
+Icon=/home/pi/SYSTEM/ICO_EDITOR_SOLODSTAR.png
+ 

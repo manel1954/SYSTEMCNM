@@ -1,0 +1,60 @@
+# NXDNHosts.txt
+#
+# The format of this file is the number of the Talk Group followed by the host name or address and port
+#
+
+2147 214nxdn.nxdn.es  41401
+
+2140 214nxdn.nxdn.es  41401
+
+2148 214nxdn.nxdn.es  41401
+
+214 214nxdn.nxdn.es  41401
+
+21463 214nxdn.nxdn.es  41401
+
+21465 214nxdn.nxdn.es  41401
+
+37030 214nxdn.nxdn.es  41401
+
+7144 214nxdn.nxdn.es  41401
+
+7487 214nxdn.nxdn.es  41401
+
+77 214nxdn.nxdn.es  41401
+
+111 214nxdn.nxdn.es  41401
+
+112 214nxdn.nxdn.es  41401
+
+21404 214nxdn.nxdn.es  41401
+
+2141 214nxdn.nxdn.es  41401
+
+21426 214nxdn.nxdn.es  41401
+
+21428 214nxdn.nxdn.es  41401
+
+2142 214nxdn.nxdn.es  41401
+
+21437 214nxdn.nxdn.es  41401
+
+2143 214nxdn.nxdn.es  41401
+
+2144 214nxdn.nxdn.es  41401
+
+2145 214nxdn.nxdn.es  41401
+
+21480 214nxdn.nxdn.es  41401
+
+2149 214nxdn.nxdn.es  41401
+
+222 214nxdn.nxdn.es  41401
+
+23511 214nxdn.nxdn.es  41401
+
+7227 214nxdn.nxdn.es  41401
+
+91 214nxdn.nxdn.es  41401
+
+967 214nxdn.nxdn.es  41401
