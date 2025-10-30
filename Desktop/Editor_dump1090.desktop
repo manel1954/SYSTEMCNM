@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dump1090
+Comment=
+Exec=sh -c 'cd /home/pi/SYSTEM/qt;./qt_editor_dump1090'
+Icon=/home/pi/SYSTEM/ICO_EDITOR_RADIO.png
+Terminal=false
+StartupNotify=false
+Name[es_ES]=Editar Dump1090
+Path=/home/pi/SYSTEM

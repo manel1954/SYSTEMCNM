@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=sh -c "cd /home/pi/SYSTEM/qt; ./qt_editor_ysf_fcs_ycs"
+Icon=/home/pi/SYSTEM/ICO_EDITOR_BM.png
+Type=Application
+StartupNotify=false
+Categories=GTK;Utility;TerminalEmulator;
+Terminal=false
+Name[es_ES]=Editar YSF FCS & YCS
+Hidden=false
+Comment[es_ES]=EA3EIZ
+X-KeepTerminal=false

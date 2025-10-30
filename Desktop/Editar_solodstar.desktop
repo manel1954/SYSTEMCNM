@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Editar solo DSTAR
+Comment=
+Exec=sh -c "cd /home/pi/SYSTEM/qt; ./qt_editor_solodstar"
+Icon=/home/pi/SYSTEM/ICO_EDITOR_SOLODSTAR.png
+Path=/home/pi/MMDVMHost
+Terminal=false
+StartupNotify=false
