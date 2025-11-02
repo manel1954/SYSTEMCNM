@@ -10,6 +10,10 @@ cp /home/pi/desktop-items-0.conf /home/pi/.config/pcmanfm/LXDE
 
 #sudo chmod 777 /home/pi/pcmanfm/LXDE/desktop-items-0.conf 
 
+killall pcmanfm
+pcmanfm --desktop --profile LXDE &
+
+
 cd /home/pi/SYSTEM/qt/
 ./qt_colocar_iconos                         
 
