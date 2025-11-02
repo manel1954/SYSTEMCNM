@@ -1,14 +1,14 @@
 #!/bin/bash
 
-cd /home/pi/Desktop
-sudo rm *.desktop
-# recupera los iconos que se han borrado y se han convertido en icono de un libro 
-cp /home/pi/SYSTEM/Desktop/*.desktop /home/pi/Desktop
-sudo chmod 777 -R /home/pi/Desktop
+# recupera los iconos que se han borrado y algunos que se han convertido en icono de un libro 
+cp -R /home/pi/SYSTEM/Desktop/* /home/pi/Desktop 
 
+#sudo chmod 777 -R /home/pi/Desktop
+
+# reorganiza los iconos
 cp /home/pi/desktop-items-0.conf /home/pi/pcmanfm/LXDE/
 
-sudo chmod 777 /home/pi/pcmanfm/LXDE/desktop-items-0.conf 
+#sudo chmod 777 /home/pi/pcmanfm/LXDE/desktop-items-0.conf 
 
 cd /home/pi/SYSTEM/qt/
 ./qt_colocar_iconos                         
