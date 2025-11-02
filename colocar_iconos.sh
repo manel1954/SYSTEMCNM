@@ -10,7 +10,7 @@ cp /home/pi/desktop-items-0.conf /home/pi/.config/pcmanfm/LXDE
 
 #sudo chmod 777 /home/pi/pcmanfm/LXDE/desktop-items-0.conf 
 
-pkill pcmanfm-qt
+pkill pcmanfm
 pcmanfm --desktop &
 
 
