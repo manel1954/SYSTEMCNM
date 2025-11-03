@@ -7,5 +7,5 @@ Type=Application
 StartupNotify=false
 Categories=GTK;Utility;TerminalEmulator;
 Terminal=false
-Name[es_ES]=Editar Ambe 3003
+Name[es_ES]=Ambe 3003
 Hidden=false

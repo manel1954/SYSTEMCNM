@@ -4,6 +4,6 @@ Exec=sh -c "cd /home/pi/SYSTEM/qt;./qt_editor_ircddb"
 Type=Application
 Terminal=false
 Comment[es_ES]=
-Name[es_ES]=Editar ircDDB
+Name[es_ES]=ircDDB
 Icon=/home/pi/SYSTEM/ICO_EDITOR_SOLODSTAR.png
  
